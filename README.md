@@ -1,6 +1,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitormneris/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/VtorMoreira15) 
 
+# Sobre mim
 Olá, tudo bem? Meu nome é João Vitor, tenho 22 anos, faço faculdade de Desenvolvimento de Software Multiplataforma na FATEC Itaquera, estou no 4° período, meus principais conhecimentos são em Java, Spring Boot e Mongo DB. Tenho hábito de usar sistemas operacionais Linux, como Ubuntu, Fedora e Arch Linux. Possuo conhecimento em C, Python, MySQL, HTML, CSS, JavaScript e Docker.
 
 # 💻 Tech Stack:

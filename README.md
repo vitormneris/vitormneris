@@ -1,4 +1,4 @@
-# Sobre mim
+# About me
 Olá, tudo bem? Meu nome é João Vitor, tenho 22 anos, faço faculdade de Desenvolvimento de Software Multiplataforma na FATEC Itaquera, estou no 4° período, meus principais conhecimentos são em Java, Spring Boot e Mongo DB. Tenho hábito de usar sistemas operacionais Linux, como Ubuntu, Fedora e Arch Linux. Possuo conhecimento em C, Python, MySQL, HTML, CSS, JavaScript e Docker.
 
 ## 🌐 Socials:

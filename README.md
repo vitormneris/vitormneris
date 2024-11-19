@@ -14,4 +14,4 @@ Olá, tudo bem? Meu nome é João Vitor, tenho 22 anos, faço faculdade de Desen
 ---
 [![](https://visitcount.itsvg.in/api?id=vitormneris&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/vitormneris/vitormneris/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vitormneris/vitormneris/blob/output/github-contribution-grid-snake.svg)

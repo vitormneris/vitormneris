@@ -1,5 +1,5 @@
 # About me
-Olá, tudo bem? Meu nome é João Vitor, tenho 22 anos, sou desenvolvedor web com foco em backend e aluno do curso de Desenvolvimento de Software Multiplataforma na FATEC Itaquera. Atualmente, estou no 4º período.
+Olá, tudo bem? Meu nome é João, tenho 22 anos, sou desenvolvedor web com foco em backend e aluno do curso de Desenvolvimento de Software Multiplataforma na FATEC Itaquera. Atualmente, estou no 4º período.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100032215952897) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vitu_moreiraa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitormneris) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VtorMoreira15) 

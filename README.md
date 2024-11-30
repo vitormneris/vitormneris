@@ -13,6 +13,7 @@ Olá, tudo bem? Meu nome é João Vitor, tenho 22 anos, faço faculdade de Desen
 
 ---
 
+## :snake: Snake Game:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitormneris/vitormneris/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitormneris/vitormneris/output/github-contribution-grid-snake.svg">

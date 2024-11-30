@@ -1,11 +1,5 @@
 # About me
-Olá, tudo bem? Meu nome é João Vitor, tenho 22 anos, sou desenvolvedor web com foco em backend, sou aluno do curso de Desenvolvimento de Software Multiplataforma na FATEC Itaquera, estou no 4° período. 
-Meu principal conhecimento está em construção de aplicações RESTful usando Java, Spring Boot, Mongo DB, MySQL e Docker. 
-Já atuei como freelancer no desenvolvimento de um projeto de plataforma de cursos, realizava o desenvolvimento do backend na arquitetura Hexagonal usando Java com Spring Boot e Mongo DB dockerizado, e, quando necessário, entrava em contato com a equipe de frontend para orientações na integração das partes do projeto.
-Tenho um gosto genuíno em usar sistemas operacionais Linux desde meus 16 anos, como Ubuntu, Debian, Fedora, Arch Linux, entre muitos outros sistemas operacionais que já testei. O que mais me chama atenção é o uso do terminal e nos últimos anos tenho usado-o com frequência e até mesmo experimentado construir meus próprios shell script. 
-Possuo conhecimento em C, Python, PHP, HTML, CSS, JavaScript, entre outras tecnologias.
-Possuo experiência no desenvolvimento de aplicações android usando Java, alguns usam a classe HttpURLConnection para fazer conexão com o servidor.
-Ultimente estive estudando a hospedagem dos meus projetos em serviços como AWS e Google Cloud. Usando serviços gratuítos como ec2 da AWS, hospedei um simples sitema e-commerce e aplicações RESTful para usá-las em projetos de desenvolvimento Android.
+Olá, tudo bem? Meu nome é João Vitor, tenho 22 anos, sou desenvolvedor web com foco em backend e aluno do curso de Desenvolvimento de Software Multiplataforma na FATEC Itaquera. Atualmente, estou no 4º período.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100032215952897) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vitu_moreiraa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitormneris) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VtorMoreira15) 

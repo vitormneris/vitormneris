@@ -12,6 +12,7 @@ Olá, tudo bem? Meu nome é João, tenho 22 anos, sou desenvolvedor web com foco
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormneris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=vitormneris&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 
 ## :snake: Snake Game:
